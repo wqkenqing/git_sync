@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping("/manager")
-public class ManagerController {
+public class SyncController {
     @RequestMapping("/hello")
     public String sayHell() {
         return "hello";

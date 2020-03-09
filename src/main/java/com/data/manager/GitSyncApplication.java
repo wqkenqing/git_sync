@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @SpringBootConfiguration
 //@EnableScheduling
-public class DataManagerApplication {
+public class GitSyncApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DataManagerApplication.class, args);
+		SpringApplication.run(GitSyncApplication.class, args);
 	}
 
 }

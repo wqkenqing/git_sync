@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.data</groupId>
-    <artifactId>data-moudle-mangaer</artifactId>
+    <artifactId>git_sync</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>data-moudle-mangaer</name>
+    <name>git_sync</name>
 
     <properties>
         <java.version>1.8</java.version>
